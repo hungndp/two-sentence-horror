@@ -34,7 +34,7 @@ scene (baby monitor, 3 AM, six hours of static), a specific number
 (six hours), and the reversal landing on the very last word
 ("welcome"), which reframes the whole first sentence as a
 conversation with something in the crib. Exactly two sentences and
-240 characters, inside the 400-character cap, with no dollar
+242 characters, inside the 400-character cap, with no dollar
 amounts anywhere. Note the deliberate "3 AM": the story avoids
 "a.m." so no stray period can ever be mistaken for a sentence
 boundary.
